@@ -1,0 +1,7 @@
+Moscow	Sydney
+Moscow	New-York
+New-York Sydney
+Moscow Sochi
+New-York Los-Angeles
+Los-Angeles Mexico
+Tokyo Moscow
